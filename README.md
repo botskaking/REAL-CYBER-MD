@@ -4,30 +4,12 @@
   
   
 <p align="center">
-  <a href="">
-    <img alt=Support height="300" src="https://telegra.ph/file/3c341828d86ee7a89c73f.jpg"> 
+  <a href=''> 
     </p>
-    <h1 align="center">XLICON-1.O<br></h1>
+    <h1 align="center">⚡ CYBER MD ⚡<br></h1>
     
    </a>
 </p>
-  
-<p align="center">
-<a href="https://github.com/salmanytofficial"><img title="Author" src="https://img.shields.io/badge/XLICON-BOT-black?style=for-the-badge&logo=whatsapp"></a>
-<p/>
-<p align="center">
-<a href="https://github.com/salmanytofficial?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/salmanytofficial?label=Followers&style=social"></a>
-<a href="https://github.com/salmanytofficial/XLICON-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/salmanytofficial/XLICON-MD?&style=social"></a>
-<a href="https://github.com/salmanytofficial/XLICON-MD/network/members"><img title="Fork" src="https://img.shields.io/github/forks/salmanytofficial/XLICON-MD?style=social"></a>
-<a href="https://github.com/salmanytofficial/XLICON-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/salmanytofficial/XLICON-MD?label=Watching&style=social"></a>
-</p>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{salmanytofficial}/count.svg" alt="SALMAN AHMAD :: Visitor's Count" /></p>
-
-</br>
-
-<h2 align="center"> Star the repo if u like it🌟
-</h2>
 
 ## `Notice`
 
@@ -40,7 +22,7 @@ Dont't Forget To ***SYNC FORK*** The Respository Before ***Deploy***
 
 1. Fork the repo
     <br>
-<a href="https://github.com/salmanytofficial/XLICON-MD/fork"><img title="XLICON-1.0" src="https://img.shields.io/badge/FORK XLICON-1.0-h?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/botskaking/REAL-CYBER-MD/fork"><img title="XLICON-1.0" src="https://img.shields.io/badge/FORK XLICON-1.0-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
 2. Scan the QR and upload the `Session` to ***XLICON-SECTION*** 
     <br>
@@ -144,7 +126,7 @@ Choose your repo
 </h4>
 
 <p align="center" >
-    <a href="https://repl.it/github/salmanytofficial/XLICON-MD">
+    <a href="https://repl.it/github/botskaking/REAL-CYBER-MD">
     <img src="https://repl.it/badge/github/quiec/whatsasena" width="170px" alt="Deploy on REPLIT" >
     </a>
 </p>
@@ -330,16 +312,16 @@ Choose your repo
 
 <div align="center">
   
-| [![𝚂𝚊𝚕𝚖𝚊𝚗𝙾𝚏𝚏𝚒𝚌𝚒𝚊𝚕](https://github.com/salmanytofficial.png?lenght=50width=50)](https://github.com/salmanytofficial)|
+| [![IRONMAN](https://github.com/botskaking.png?lenght=50width=50)](https://github.com/botskaking)|
 |----|
-| [ 𝙎𝘼𝙇𝙈𝘼𝙉 𝘼𝙃𝙈𝘼𝘿 ](https://github.com/salmanytofficial) |
+| [ 𝙎𝘼𝙇𝙈𝘼𝙉 𝘼𝙃𝙈𝘼𝘿 ](https://github.com/botskaking) |
 |  Owner, Developer, Bug Fixer, Maintainer, updates |
 
 <br>
   
-| [![SlasherOfficial](https://github.com/Maher-Zubair.png?lenght=50width=50)](https://github.com/Maher-Zubair) |
+| [![Sumit](https://github.com/Maher-Zubair.png?lenght=50width=50)](https://github.com/botskaking) |
 |----|
-| [ 𝙈𝙀𝙃𝘼𝙍 𝙕𝙐𝘽𝘼𝙄𝙍 ](https://github.com/Maher-Zubair) |
+| [ 𝙈𝙀𝙃𝘼𝙍 𝙕𝙐𝘽𝘼𝙄𝙍 ](https://github.com/botskaking) |
 |  Co.Owner , Bug Fixer, |
 
   </div>
@@ -349,14 +331,14 @@ Choose your repo
 
   ## `Support`
 
-For support, email [ xheikhsalman4422@gmail.com ] or join our whatsapp group.
+For support, email [ irommanhindigaming@gmail.com ] or join our whatsapp group.
 
 
 <p align="center">
-  <a aria-label="Join our chats" href="https://chat.whatsapp.com/C4ivwZKuh5bLJkqfYNPQsk" target="_blank">
+  <a aria-label="Join our chats" href="https://chat.whatsapp.com/DjDv3ZEoO5gFfqnWACyU49" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-<a aria-label="Join our chats" href="https://wa.me/923184070915?text=Hi!! SalmanAhmad Sir, I need Your Help" target="_blank">
+<a aria-label="Join our chats" href="https://wa.me/918250895584?text=Hi!! Ironman Sir, I need Your Help" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Bot%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 
@@ -384,17 +366,17 @@ For support, email [ xheikhsalman4422@gmail.com ] or join our whatsapp group.
 <h1 align="left">  ✨Spacial Thanks To🎯
 </h1>
 
-* [`🎐 Sampandey`](https://github.com/SamPandey001) ***For Sector MD Base***
-* [`🎐 SuhailTechInfo`](https://github.com/SuhailTechInfo) ***For Scripts and Debugging***
-* [`🎐 MAHER-ZUBAIR`](https://github.com/Maher-Zubair) ***For Fixing Plugins***
+* [`🎐 Ironman`](https://github.com/botskaking) ***For CYBER Base***
+* [`🎐 ROHIT`](https://github.com/botskaking) ***For Scripts and Debugging***
+* [`🎐 SUMIT`](https://github.com/) ***For Fixing Plugins***
 * [`🎐 Abraham Dwamena`](https://github.com/abrahamdw882) ***For QR Ideas***
-* [`🎐 MR-KALINDU`](https://github.com/MR-KALINDU) ***For Fixing Errors***
+* [`🎐 MR-KAAL HACKER`](https://github.com/MR-KALINDU) ***For Fixing Errors***
 * 
 
 ---
 
 </p>
-<h1 align="center"> Thanks To  SuhailTechInfo
+<h1 align="center"> Thanks To  botskaking
 </h1>
 
  <br><br>
