@@ -22,7 +22,7 @@ Dont't Forget To ***SYNC FORK*** The Respository Before ***Deploy***
 
 1. Fork the repo
     <br>
-<a href="https://github.com/botskaking/REAL-CYBER-MD/fork"><img title="XLICON-1.0" src="https://img.shields.io/badge/FORK XLICON-1.0-h?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/botskaking/REAL-CYBER-MD/fork"><img title="CYBER-1.0" src="https://img.shields.io/badge/FORK CYBER-1.0-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
 2. Scan the QR and upload the `Session` to ***CYBER-SECTION*** 
     <br>
