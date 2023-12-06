@@ -319,7 +319,7 @@ Choose your repo
 
 <br>
   
-| [![Sumit](https://github.com/Maher-Zubair.png?lenght=50width=50)](https://github.com/botskaking) |
+| [![Sumit](https://github.com/botskaking.png?lenght=50width=50)](https://github.com/botskaking) |
 |----|
 | [ 𝙈𝙀𝙃𝘼𝙍 𝙕𝙐𝘽𝘼𝙄𝙍 ](https://github.com/botskaking) |
 |  Co.Owner , Bug Fixer, |
