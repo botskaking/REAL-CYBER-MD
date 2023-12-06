@@ -5,8 +5,8 @@
  It is supplied in the hope that it may be useful.
  * @project_name : XLICON-MD
  * @author : salmanytofficial <https://github.com/jayjay-ops>
- * @modified by : @salmanytofficial <https://github.com/salmanytofficial/XLICON-MD>
- * @description : XLICON,A Multi-functional whatsapp bot.
+ * @modified by : @ironman <https://github.com/>
+ * @description : cyber,A Multi-functional whatsapp bot.
  * @version 0.0.6
  **/
 
