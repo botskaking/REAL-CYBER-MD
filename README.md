@@ -24,7 +24,7 @@ Dont't Forget To ***SYNC FORK*** The Respository Before ***Deploy***
     <br>
 <a href="https://github.com/botskaking/REAL-CYBER-MD/fork"><img title="XLICON-1.0" src="https://img.shields.io/badge/FORK XLICON-1.0-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
-2. Scan the QR and upload the `Session` to ***XLICON-SECTION*** 
+2. Scan the QR and upload the `Session` to ***CYBER-SECTION*** 
     <br>
 <a href='https://replit.com/@S4SalmanYt/XLICON-MD-QR-V5?v=1' target="_blank"><img alt='SCAN QR-1' src='https://img.shields.io/badge/Scan_qr-1-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
 
