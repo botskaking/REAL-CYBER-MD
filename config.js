@@ -16,8 +16,8 @@ global.website = 'https://github.com/botskaking/REAL-CYBER-MD' //wa.me/+91825089
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/3c341828d86ee7a89c73f.jpg'
 module.exports = {
   sessionName:  process.env.SESSION_ID ||  " ",  //PUT Session Id Here, 
-  author:  process.env.PACK_AUTHER ||  '',
-  packname:  process.env.PACK_NAME || '',
+  author:  process.env.PACK_AUTHER ||  'Ironbotz',
+  packname:  process.env.PACK_NAME || 'Ironbotz',
    
   botname:   process.env.BOT_NAME === undefined ? "⚡ CYBER MD ⚡" : process.env.BOT_NAME,
   ownername: process.env.OWNER_NAME === undefined ? 'IRONMAN' : process.env.OWNER_NAME,  
@@ -45,7 +45,7 @@ module.exports = {
     APP_NAME: process.env.HEROKU_APP_NAME === undefined ? '' : process.env.HEROKU_APP_NAME
 },
   VERSION: process.env.VERSION === undefined ? 'v.0.0.3' : process.env.VERSION,
-  LANG: process.env.THEME|| 'GOJO',
+  LANG: process.env.THEME|| 'GOKU',
   WORKTYPE: process.env.WORKTYPE === undefined ? 'public' : process.env.WORKTYPE
 };
 
